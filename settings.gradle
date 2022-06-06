@@ -1,0 +1,2 @@
+rootProject.name = "ApniSeva Technician"
+include ':app'
